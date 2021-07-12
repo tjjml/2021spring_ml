@@ -1,0 +1,2 @@
+实验所用数据是kaggle里面的一个图片数据集（食物和非食物），链接如下 ：
+https://www.kaggle.com/binhminhs10/food5k

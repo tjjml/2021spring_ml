@@ -1,0 +1,4 @@
+以下是利用Google Colab直接调用TensorFlow来进行训练的在线ipynb项目链接：
+https://colab.research.google.com/drive/1pNBaXAwFihA8Fq7BJz48zE6QRl48OapW?usp=sharing
+
+我的垃圾电脑实在不怎么跑得动，顺便使用了一下google提供的这个环境，速度比我自己电脑快10倍左右！
